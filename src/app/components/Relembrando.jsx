@@ -20,19 +20,19 @@ const Relembrando = () => {
     
             <p className="mb-8 max-w-md text-white">
             Lembre-se de que a estrutura dos sites está organizada de acordo com nossa tabela {' '}
-                <a href="https://drive.google.com/file/d/1Xxyl6kD3yxjSd1q6bO1EQ5QEqkZJWLbX/view?usp=sharing" 
+                <a href="https://drive.google.com/file/d/1NcoFgh05dsJVuyB5zXvtWkNSlpNHDN4i/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className='underline hover:text-sky-300'>
                     (acessível aqui)
                 </a>
             {' '}e que abrange conteúdos e atividades previstos no Mapa Esquemático de Matemática {' '}
-                <a href='https://drive.google.com/file/d/10S2XJzIb8EwubbzDjxUlAtSV15DD9OOK/view?usp=sharing' 
+                <a href='https://drive.google.com/file/d/13xDC_XFqwEi1K9NCAfYn0HXn1kuVO2ix/view' 
                 target="_blank" rel="noopener noreferrer" 
                 className='underline hover:text-sky-300'>(acessível aqui)
                 </a>
             {' '} e no Caderno do Educador (organizados através do Quadro Geral, {' '}
-                <a href='https://docs.google.com/spreadsheets/d/1DFJAnY_SmwUOelCjAFSarbtot7P0ehB0BptqqehtM30/edit#gid=0' 
+                <a href='https://docs.google.com/spreadsheets/d/19rHOh929tbvQl1XpdmED2WJBEILeTNfjahGWxbUSh2k/edit#gid=0' 
                 target="_blank" rel="noopener noreferrer" 
                 className='underline hover:text-sky-300'> acessível aqui
                 </a>

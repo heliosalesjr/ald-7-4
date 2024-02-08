@@ -7,10 +7,10 @@ const AtivHero = () => {
         <div className="text-center flex items-center justify-between px-12">
             <div>
             <h1 className=" text-5xl font-bold tracking-tight text-white md:text-5xl xl:text-6xl">
-            Atividades do Projeto: Diagnóstico
+            Atividades do Projeto: Finalização e Culminância
             </h1>
             <p className="text-lg text-white py-8">
-            Com as atividades em andamento começam a surgir os resultados. Vamos conhecer diferentes métodos avaliativos para diversificar maneiras de identificar dificuldades e aprendizados e também enriquecer a experiência dos estudantes.
+            Com o projeto chegando ao fim, é hora de verificar o desenvolvimento socioemocional dos estudantes e decidir como divulgar e celebrar os resultados.
             </p>
             </div>
             <div className="hidden md:block">

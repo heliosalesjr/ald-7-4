@@ -35,7 +35,7 @@ const AtiSocioemocional = () => {
                 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                     <div className="flex items-end justify-end">
-                        <GiMirrorMirror className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4">🪞</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Autoconhecimento</h1>
                     <p className='text-sm text-slate-800 text-left pb-4'>Ler e compreender suas emoções, reconhecendo seu impacto em si próprio e nos outros. Em sua perspectiva social, possibilita a criação de estratégias eficazes para manejo das emoções nos diferentes contextos sociais.</p>
@@ -43,7 +43,7 @@ const AtiSocioemocional = () => {
 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                 <div className="flex items-end justify-end">
-                        <GiGloves className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4">🙌</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Empatia</h1>
                     
@@ -52,7 +52,7 @@ const AtiSocioemocional = () => {
 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                 <div className="flex items-end justify-end">
-                        <FaPhoenixSquadron className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4">🧘</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Resiliência</h1>
                     
@@ -66,7 +66,7 @@ const AtiSocioemocional = () => {
                 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                     <div className="flex items-end justify-end">
-                        <MdTaskAlt className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4">☑️</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Responsabilidade</h1>
                     <p className='text-sm text-slate-800 text-left pb-4'>Fazer escolhas construtivas para cumprir obrigações com firmeza, organização e clareza para completar com qualidade o que lhe foi proposto. Avaliação realista das consequências de ações com consideração ao bem-estar de si mesmo e dos outros.</p>
@@ -74,7 +74,7 @@ const AtiSocioemocional = () => {
 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                 <div className="flex items-end justify-end">
-                        <FaTools className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4" >🛠️</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Resolução de Problemas</h1>
                     
@@ -83,7 +83,7 @@ const AtiSocioemocional = () => {
 
                 <div className='bg-white p-6 rounded-lg border border-slate-300 shadow-md m-2 flex flex-col justify-start items-start hover:shadow-lg hover:scale-105 transition-all duration-300'>
                 <div className="flex items-end justify-end">
-                        <GiBrain className="text-5xl text-slate-500 mb-4" />
+                        <p className="text-5xl text-slate-500 mb-4" >🧠</p>
                     </div>
                     <h1 className='text-primary text-lg font-semibold py-2'>Pensamento Crítico</h1>
                     
