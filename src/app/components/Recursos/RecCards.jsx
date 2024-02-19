@@ -1,8 +1,9 @@
 import React from 'react';
-import { GiShinyApple } from "react-icons/gi";
-import { PiStudentBold } from "react-icons/pi";
+import { SiKahoot } from "react-icons/si";
+import { MdQuiz } from "react-icons/md";
+import { SiGoogleforms } from "react-icons/si";
 import { IoRocket } from "react-icons/io5";
-
+import { TbGoGame } from "react-icons/tb";
 const RecCards = () => {
   return (
     <div className='bg-slate-200'>
@@ -17,7 +18,7 @@ const RecCards = () => {
                 
                 <div className="relative group bg-white transition hover:z-[1] hover:shadow-2xl">
                   <div className="relative p-8 space-y-8">
-                      <GiShinyApple className='text-3xl text-slate-800 hover:text-primary'/>
+                      <TbGoGame className='text-3xl text-slate-800 hover:text-primary'/>
                     <div className="space-y-2">
                       <h5 className="text-xl pb-4 font-bold text-primary transition group-hover:text-primary"><a 
                           href="https://wordwall.net/" 
@@ -42,7 +43,7 @@ const RecCards = () => {
                 
                 <div className="relative group pb-4 bg-white transition hover:z-[1] hover:shadow-2xl">
                   <div className="relative p-8 space-y-8">
-                      <PiStudentBold className='text-3xl text-slate-800 hover:text-primary'/>
+                      <SiKahoot className='text-3xl text-slate-800 hover:text-primary'/>
                     <div className="space-y-2">
                     <h5 className="text-xl pb-4 font-bold text-primary transition group-hover:text-primary"><a 
                           href="https://kahoot.com/" 
@@ -69,7 +70,7 @@ const RecCards = () => {
 
                 <div className="relative group pb-4 bg-white transition hover:z-[1] hover:shadow-2xl">
                   <div className="relative p-8 space-y-8">
-                      <PiStudentBold className='text-3xl text-slate-800 hover:text-primary'/>
+                      <MdQuiz className='text-3xl text-slate-800 hover:text-primary'/>
                     <div className="space-y-2">
                     <h5 className="text-xl pb-4 font-bold text-primary transition group-hover:text-primary"><a 
                           href="https://quizizz.com/?lang=pt-br&lng=pt-BR" 
@@ -94,7 +95,7 @@ const RecCards = () => {
 
                 <div className="relative group pb-4 bg-white transition hover:z-[1] hover:shadow-2xl">
                   <div className="relative p-8 space-y-8">
-                      <IoRocket className='text-3xl text-slate-800 hover:text-primary'/>
+                      <SiGoogleforms className='text-3xl text-slate-800 hover:text-primary'/>
                     <div className="space-y-2">
                     <h5 className="text-xl pb-4 font-bold text-primary transition group-hover:text-primary"><a 
                           href="https://forms.google.com/" 
